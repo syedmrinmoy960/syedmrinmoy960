@@ -56,7 +56,7 @@
 <a href="https://www.facebook.com/syed.mrinmoy/ " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt=" " height="30" width="40" /></a>
 <a href="https://www.instagram.com/syed_mrinmoy/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="" height="30" width="40" /></a>
 <a href = "https://www.linkedin.com/in/syed-yasir-shahriar-049b23175"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = ""><img src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a>
+<a href = "mrinmoy960@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a>
 <a href = "https://www.stopstalk.com/user/profile/venom960"><img src="https://img.icons8.com/fluent/48/000000/StopStalk.png"/></a>
 
 </p>
