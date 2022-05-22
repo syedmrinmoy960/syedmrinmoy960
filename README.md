@@ -37,30 +37,28 @@
 
 - 📄 Know about my experiences [syedmrinmoy960.github.io](https://syedmrinmoy960.github.io)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Cometitive Programming Profiles :</h3>
 <p align="left">
 <a href="https://dev.to/syedmrinmoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="syedmrinmoy" height="30" width="40" /></a>
+ <a href = "https://www.stopstalk.com/user/profile/venom960"><img src="https://img.icons8.com/fluent/48/000000/StopStalk.png"/></a> -->
 <a href="https://www.linkedin.com/in/syed-yasir-shahriar-049b23175" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syedmrinmoy" height="30" width="40" /></a>
-
-
-<a href=" " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt=" " height="30" width="40" /></a>
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/Arthur_960" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Shahriar_960" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/shahriar960" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shahriar" height="30" width="40" /></a>
-
-  <a href="https://www.hackerrank.com/muhiminul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="muhiminul" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/muhimin_osim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="muhimin_osim" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/muhimin_osim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="muhimin_osim" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@muhiminulislam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@muhiminulislam" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/muhiminul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="muhiminul" height="30" width="40" /></a>
+  <a href="https://www.hackerrank.com/mrinmoy960" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Syedmrinmoy" height="30" width="40" /></a>
+<a href="https://leetcode.com/syed_mrinmoy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="syed_mrinmoy" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@syedmrinmoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="shahriar960" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/syedmrinmoymrinmoy/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="syedmrinmoy" height="30" width="40" /></a>
 </p>
 
 
-## Connect with me:
+## Connect With Me :
 <p align="left">
+<a href="https://www.facebook.com/syed.mrinmoy/ " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt=" " height="30" width="40" /></a>
+<a href="https://www.instagram.com/syed_mrinmoy/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="" height="30" width="40" /></a>
 <a href = "https://www.linkedin.com/in/syed-yasir-shahriar-049b23175"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = ""><img src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a>
 <a href = "https://www.stopstalk.com/user/profile/venom960"><img src="https://img.icons8.com/fluent/48/000000/StopStalk.png"/></a>
-  <a href = "https://codeforces.com/profile/Arthur_960"><img src="[https://img.icons8.com/fluent/48/000000/Codeforces.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc-OT0btQTQfv0ewlqK4hoSRq2gwrvF2Lff-94bK6qFLt-MRNjfff1HZxJEUMZI3f-bic&usqp=CAU)"/></a>
+
 </p>
 
 ## ❤ Views and Followers
