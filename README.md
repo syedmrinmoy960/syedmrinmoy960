@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **mrinmoy960@gmail.com**
 
-- 📄 Know about my experiences [syedmrinmoy960.github.io](https://syedmrinmoy960.github.io)
+<!-- - 📄 Know about my experiences [syedmrinmoy960.github.io](https://syedmrinmoy960.github.io) -->
 
 
 ## 📊 My Github Stats
