@@ -39,7 +39,7 @@
 
 <h3 align="left">Cometitive Programming Profiles :</h3>
 <p align="left">
-<a href="https://dev.to/syedmrinmoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="syedmrinmoy" height="30" width="40" /></a>
+<!-- <a href="https://dev.to/syedmrinmoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="syedmrinmoy" height="30" width="40" /></a> -->
  <a href = "https://www.stopstalk.com/user/profile/venom960"><img src="https://img.icons8.com/fluent/48/000000/StopStalk.png"/></a> -->
 <a href="https://www.linkedin.com/in/syed-yasir-shahriar-049b23175" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syedmrinmoy" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/Arthur_960" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Shahriar_960" height="30" width="40" /></a>
