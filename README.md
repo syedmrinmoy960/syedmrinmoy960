@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, It's Md. Muhiminul Islam Osim</h1>
+<h1 align="center">Hi 👋, It's Syed Yasir Shahriar</h1>
 <h3 align="center">CS Under Graduate, Competitive programmer, Problem Setter and Programming Trainer</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=syedmrinmoy960=Profile%20views&color=0e75b6&style=flat" alt="syedmrinmoy" /> </p>
@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently studying Computer Science and Engineering at [American International University-Bangladesh](aiub.edu)
 
-- 👨‍💻 All of my projects are available at [muhiminosim.github.io](https://syedmrinmoy960.github.io)
+- 👨‍💻 All of my projects are available at [syedmrinmoy960.github.io](https://syedmrinmoy960.github.io)
 
 - 💬 Ask me about **Competitive Programming, Problem Solving**
 
