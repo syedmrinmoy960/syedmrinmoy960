@@ -13,7 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+## Personal Competitive Programming Information :
+<a href= https://www.stopstalk.com/user/profile/venom960> </a>
+
 
 <img src="https://github-readme-stats.vercel.app/api?username=syedmrinmoy960&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedmrinmoy960&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/>
