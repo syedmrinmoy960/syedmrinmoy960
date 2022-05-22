@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, It's Syed Yasir Shahriar</h1>
 <h3 align="center">CS Under Graduate, Competitive programmer, Problem Setter and Programming Trainer</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=muhiminosim&label=Profile%20views&color=0e75b6&style=flat" alt="syedmrinmoy" /> </p>
+<a href="https://github.com/syedmrinmoy960/github-profile-views-counter">
+   <p align="center">  <img src="https://komarev.com/ghpvc/?username=syedmrinmoy960"> </p>
+</a>
 
 
 - 🔭 I’m currently studying Computer Science and Engineering at [American International University-Bangladesh](aiub.edu)
