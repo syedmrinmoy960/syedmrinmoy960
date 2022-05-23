@@ -4,7 +4,8 @@
 <a href="https://github.com/syedmrinmoy960/github-profile-views-counter">
    <p align="center">  <img src="https://komarev.com/ghpvc/?username=syedmrinmoy960"> </p>
 </a>
-
+</a>
+<a href="https://github.com/syedmrinmoy960?tab=followers"><p align="center"><img src="https://img.shields.io/github/followers/syedmrinmoy960?label=Followers&style=social" alt="GitHub Badge"></p> </a>
 
 - 🔭 I’m currently studying Computer Science and Engineering at [American International University-Bangladesh](aiub.edu)
 
