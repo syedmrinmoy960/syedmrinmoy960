@@ -7,7 +7,7 @@
 </a>
 <a href="https://github.com/syedmrinmoy960?tab=followers"><p align="center"><img src="https://img.shields.io/github/followers/syedmrinmoy960?label=Followers&style=social" alt="GitHub Badge"></p> </a>
 
-- 🔭 I’m currently Work as Asssociate Software Engineer at [SSL Wireless].([wwww.sslwireless.com](https://sslwireless.com/)). 
+- 🔭 I’m currently Work as Asssociate Software Engineer at [SSL Wireless].((https://sslwireless.com/)). 
 
 - 👨‍💻 All of my projects are available at [syedmrinmoy960.github.io](https://syedmrinmoy960.github.io)
 
