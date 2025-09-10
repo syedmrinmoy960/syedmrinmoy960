@@ -52,17 +52,9 @@
   </a>
 </p>
 
-## 🏆 GitHub Trophies
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img alt="syedmrinmoy960's Trophies" src="https://github-profile-trophy.vercel.app/?username=syedmrinmoy960&theme=radical&no-frame=true&column=7" />
-  </a>
-</p>
-
-## 🐍 Contribution Snake
-<p align="center">
-  <a href="https://github.com/Platane/snk">
-    <img alt="syedmrinmoy960's Contribution Snake" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg?username=syedmrinmoy960&palette=github-dark" />
   </a>
 </p>
 
