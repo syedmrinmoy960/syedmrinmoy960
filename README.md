@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Syed Yasir Shahriar</h1>
-<h3 align="center">CS Undergraduate | Competitive Programmer | Problem Setter | Programming Trainer | Associate Software Engineer</h3>
+<h3 align="center">CS Undergraduate | Competitive Programmer | Programming Trainer | Associate Software Engineer</h3>
 
 <p align="center">
   <a href="https://github.com/syedmrinmoy960/github-profile-views-counter">
