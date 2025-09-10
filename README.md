@@ -23,7 +23,6 @@
   <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" alt="CI/CD">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
-  <!-- Add more badges as needed -->
 </p>
 
 ## 📊 GitHub Stats
@@ -50,6 +49,20 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img title="GitHub Streak" alt="syedmrinmoy960's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=syedmrinmoy960&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" />
+  </a>
+</p>
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img alt="syedmrinmoy960's Trophies" src="https://github-profile-trophy.vercel.app/?username=syedmrinmoy960&theme=radical&no-frame=true&column=7" />
+  </a>
+</p>
+
+## 🐍 Contribution Snake
+<p align="center">
+  <a href="https://github.com/Platane/snk">
+    <img alt="syedmrinmoy960's Contribution Snake" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg?username=syedmrinmoy960&palette=github-dark" />
   </a>
 </p>
 
